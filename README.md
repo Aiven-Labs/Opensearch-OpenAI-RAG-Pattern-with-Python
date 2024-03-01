@@ -12,7 +12,7 @@ This repo uses a jupyter notebook to walk through the process of creating an Ope
 
 You will need an [Aiven](https://aiven.io/) account. You can sign up for an account.
 
-![Create an Aiven account](./assets/aiven\ get\ started\ for\ free.gif)
+![Create an Aiven account](./assets/aiven-get-started.gif)
 
 ### Create an OpenSearch service
 
