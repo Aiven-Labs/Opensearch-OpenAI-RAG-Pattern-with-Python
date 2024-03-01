@@ -1,6 +1,8 @@
 # Implementing a Retrieval Augmented Generation (RAG) pattern with OpenAI and OpenSearch
 
-Create an [OpenSearch](https://opensearch.org/) datastore from wikipedia zipfiles to use with the OpenAI API for a Retrieval Augmented Generation pattern.
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/aiven-labs/Opensearch-OpenAI-RAG-Pattern-with-Python)
+
+This notebook demonstrates how to use semantic search to retrieve relevant information from a dataset using the OpenAI API and [Aiven for OpenSearch®](https://aiven.io/opensearch).
 
 ## Getting Started
 
@@ -8,7 +10,11 @@ This repo uses a jupyter notebook to walk through the process of creating an Ope
 
 ### Setup your Aiven Account
 
-You will need an [Aiven](https://aiven.io/) account. You can sign up for a
+You will need an [Aiven](https://aiven.io/) account. You can sign up for an account
+
+### Create an OpenSearch service
+
+### Create an OpenAI API key
 
 ### [Option 1] Create a new codespace in GitHub
 
