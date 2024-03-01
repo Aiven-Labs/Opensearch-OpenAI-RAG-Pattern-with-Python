@@ -1,4 +1,4 @@
-# Implementing a Retrieval Augmented Generation pattern with OpenAI and OpenSearch
+# Implementing a Retrieval Augmented Generation (RAG) pattern with OpenAI and OpenSearch
 
 Create an [OpenSearch](https://opensearch.org/) datastore from wikipedia zipfiles to use with the OpenAI API for a Retrieval Augmented Generation pattern.
 
