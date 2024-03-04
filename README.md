@@ -45,4 +45,4 @@ You can use the `code` button in the top right of the repo or the badge at the t
 
 ### Follow the notebook
 
-Follow the steps in [`notebook.pynb` 🔗](./notebook.pynb).
+Follow the steps in [`notebook.ipynb` 🔗](./notebook.ipynb).
