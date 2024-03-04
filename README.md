@@ -16,11 +16,20 @@ You will need an [Aiven](https://aiven.io/) account. You can sign up for an acco
 
 ### Create an OpenSearch service
 
-You can create an OpenSearch service in the Aiven console by selecting the
+You can create an OpenSearch service in the Aiven console by selecting the OpenSearch service. You can choose the cloud provider and region you want to deploy the service in.
+
+You can also create the service using the Aiven CLI.
 
 ![Creating an OpenSearch Service](./assets/create-opensearch-service.gif)
 
 ### Create an OpenAI API key
+
+Our semantic search will be powered in-part by [OpenAI API](https://platform.openai.com/docs/overview). In order to use the API, you will need to create an API key and purchase credits. You can c and sign in or create an account
+
+- On the left sidebar, select **Settings**, followed by **Billing**
+- Select **Add to credit balance** (You will need to add a payment method)
+
+![Creating an OpenAI API Key](./assets/openai-billing.png)
 
 ### [Option 1] Create a new codespace in GitHub
 
