@@ -12,9 +12,13 @@ This repo uses a jupyter notebook to walk through the process of creating an Ope
 
 You will need an [Aiven](https://aiven.io/) account. You can sign up for an account.
 
-<./assets/aiven-get-started.mp4>
+![Creating an Account with Aiven](./assets/aiven-get-started.gif)
 
 ### Create an OpenSearch service
+
+You can create an OpenSearch service in the Aiven console by selecting the
+
+![Creating an OpenSearch Service](./assets/create-opensearch-service.gif)
 
 ### Create an OpenAI API key
 
@@ -41,4 +45,4 @@ You can use the `code` button in the top right of the repo or the badge at the t
 
 ### Follow the notebook
 
-Follow the steps in [`notebook.pynb` 🔗](./notebook.pynb).:> [!WARNING]
+Follow the steps in [`notebook.pynb` 🔗](./notebook.pynb).
