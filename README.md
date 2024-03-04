@@ -24,8 +24,9 @@ You can also create the service using the Aiven CLI.
 
 ### Create an OpenAI API key
 
-Our semantic search will be powered in-part by [OpenAI API](https://platform.openai.com/docs/overview). In order to use the API, you will need to create an API key and purchase credits. You can c and sign in or create an account
+Our semantic search will be powered in-part by [OpenAI API](https://platform.openai.com/docs/oerview). In order to use the API, you will need to create an API key and purchase credits.
 
+- Visit <https://platform.openai.com> and sign in or create an account
 - On the left sidebar, select **Settings**, followed by **Billing**
 - Select **Add to credit balance** (You will need to add a payment method)
 
