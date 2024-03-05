@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 .idea
 .DS_Store
+data
+vector_database_wikipedia_articles_embedded.zip

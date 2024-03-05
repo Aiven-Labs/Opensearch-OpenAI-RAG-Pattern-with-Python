@@ -4,6 +4,10 @@
 
 This notebook demonstrates how to use semantic search to retrieve relevant information from a dataset using the OpenAI API and [Aiven for OpenSearch®](https://aiven.io/opensearch).
 
+## Why using OpenSearch as backend vector database
+
+OpenSearch is a widely adopted open source search/analytics engine. It allows to store, query and transform documents in a variety of shapes and provides fast and scalable functionalities to perform both accurate and [fuzzy text search](https://opensearch.org/docs/latest/query-dsl/term/fuzzy/). Using OpenSearch as vector database enables you to mix and match semantic and text search queries on top of a performant and scalable engine.
+
 ## Getting Started
 
 This repo uses a jupyter notebook to walk through the process of creating an OpenSearch datastore in Aiven and searching against it using the OpenAI API.
