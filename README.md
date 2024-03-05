@@ -22,7 +22,7 @@ You can also create the service using the Aiven CLI.
 
 ![Creating an OpenSearch Service](./assets/create-opensearch-service.gif)
 
-### Create an OpenAI API key
+### Add OpenAI Credits and Create an OpenAI API key
 
 Our semantic search will be powered in-part by [OpenAI API](https://platform.openai.com/docs/oerview). In order to use the API, you will need to create an API key and purchase credits.
 
@@ -30,11 +30,29 @@ Our semantic search will be powered in-part by [OpenAI API](https://platform.ope
 - On the left sidebar, select **Settings**, followed by **Billing**
 - Select **Add to credit balance** (You will need to add a payment method)
 
-![Creating an OpenAI API Key](./assets/openai-billing.png)
+![Adding OpenAI Credits](./assets/openai-billing.png)
+
+Next, you will need to create an API key that will be used to authenticate your requests to the OpenAI API.
+
+- In the sidebar, select **API keys** and then **Create new secret key**
+
+![Create a new secret key](assets/openai-create-new-key.png)
+
+- Give your key a name and select **All** for permissions. Select **Create secret key**
+- Copy the key and store it in a safe place.
+
+> !!! warning
+> You will need it to authenticate your requests to the OpenAI API.
+
+![Copy your API key](assets/openai-save-key.png)
 
 ### [Option 1] Create a new codespace in GitHub
 
 You can use the `code` button in the top right of the repo or the badge at the top of the readme to create a new codespace in GitHub. This will create a new environment with all the required dependencies to run the notebook.
+
+You can select the image below to create a new codespace.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/aiven-labs/Opensearch-OpenAI-RAG-Pattern-with-Python)
 
 ### [Option 2] Setup the project locally
 
