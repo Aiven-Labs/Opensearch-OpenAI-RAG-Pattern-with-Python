@@ -79,4 +79,4 @@ You can select the image below to create a new codespace.
 
 Follow the steps in [`notebook.ipynb` 🔗](./notebook.ipynb).
 
-![Button to Open Jupyter Notebook](https://img.shields.io/badge/Open%20the%20Notebook-ec6147?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fkjaymiller%2FOpensearch-OpenAI-RAG-Pattern-with-Python%2Fblob%2Fmain%2Fnotebook.ipynb)
+[![Button to Open Jupyter Notebook](https://img.shields.io/badge/Open%20the%20Notebook-ec6147?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fkjaymiller%2FOpensearch-OpenAI-RAG-Pattern-with-Python%2Fblob%2Fmain%2Fnotebook.ipynb)](./notebook.ipynb)
